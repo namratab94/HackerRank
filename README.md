@@ -20,3 +20,5 @@ Links to the problems solved here:
 8. https://www.hackerrank.com/challenges/plus-minus
 
 9. https://www.hackerrank.com/challenges/staircase
+
+10. https://www.hackerrank.com/challenges/mini-max-sum
