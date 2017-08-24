@@ -22,3 +22,5 @@ Links to the problems solved here:
 9. https://www.hackerrank.com/challenges/staircase
 
 10. https://www.hackerrank.com/challenges/mini-max-sum
+
+11. https://www.hackerrank.com/challenges/birthday-cake-candles
