@@ -14,3 +14,5 @@ Links to the problems solved here:
 5. https://www.hackerrank.com/challenges/compare-the-triplets
 
 6. https://www.hackerrank.com/challenges/a-very-big-sum
+
+7. https://www.hackerrank.com/challenges/diagonal-difference
