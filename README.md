@@ -12,3 +12,5 @@ Links to the problems solved here:
 4. https://www.hackerrank.com/challenges/python-tuples
 
 5. https://www.hackerrank.com/challenges/compare-the-triplets
+
+6. https://www.hackerrank.com/challenges/a-very-big-sum
