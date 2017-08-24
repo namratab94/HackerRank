@@ -10,3 +10,5 @@ Links to the problems solved here:
 3. https://www.hackerrank.com/challenges/marcs-cakewalk/problem
 
 4. https://www.hackerrank.com/challenges/python-tuples
+
+5. https://www.hackerrank.com/challenges/compare-the-triplets
