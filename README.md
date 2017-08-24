@@ -18,3 +18,5 @@ Links to the problems solved here:
 7. https://www.hackerrank.com/challenges/diagonal-difference
 
 8. https://www.hackerrank.com/challenges/plus-minus
+
+9. https://www.hackerrank.com/challenges/staircase
