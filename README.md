@@ -16,3 +16,5 @@ Links to the problems solved here:
 6. https://www.hackerrank.com/challenges/a-very-big-sum
 
 7. https://www.hackerrank.com/challenges/diagonal-difference
+
+8. https://www.hackerrank.com/challenges/plus-minus
