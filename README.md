@@ -24,3 +24,5 @@ Links to the problems solved here:
 10. https://www.hackerrank.com/challenges/mini-max-sum
 
 11. https://www.hackerrank.com/challenges/birthday-cake-candles
+
+12. https://www.hackerrank.com/challenges/time-conversion
