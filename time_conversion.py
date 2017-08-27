@@ -32,12 +32,16 @@ def timeConversion(s):
     else:
         if hour == 12:
             hour -= hour
-            final_time = str(hour) + ':'
+            final_time = '0' + str(hour) + ':'
         else:
-            final_time = str(hour) + ':'
+            final_time = '0' + str(hour) + ':'
 
     if minute < 10:
         minute = '0' + str(minute)
+
+    if second < 10:
+        second = '0' + str(second)
+
 
     final_time += str(minute) + ':' + str(second)
 
