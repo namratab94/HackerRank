@@ -26,3 +26,7 @@ Links to the problems solved here:
 11. https://www.hackerrank.com/challenges/birthday-cake-candles
 
 12. https://www.hackerrank.com/challenges/time-conversion
+
+13. https://www.hackerrank.com/challenges/apple-and-orange
+
+14. https://www.hackerrank.com/challenges/kangaroo
